@@ -1,6 +1,6 @@
 {
   "name": "@densityco/dxf",
-  "version": "4.6.3",
+  "version": "4.7.0",
   "description": "DXF parser for node/browser",
   "main": "lib/index.js",
   "bin": {
